@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+
+.container-fluid{
+    text-align: center;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
